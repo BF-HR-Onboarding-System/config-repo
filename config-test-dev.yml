@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: config-test
+
+server:
+  port: 7777
